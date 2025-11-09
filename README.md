@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/aw1bqx.jpg" alt="REDZONE MD" width="1000"/>
+  <img src="https://i.postimg.cc/x1kcQ44k/crisismegatronemd.jpg" alt="MEGATRONE MD" width="1000"/>
 </p>
 
 <h1 align="center">
